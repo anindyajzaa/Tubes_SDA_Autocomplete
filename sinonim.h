@@ -8,6 +8,10 @@
 
 #include "types.h"
 
+/* Variabel data sinonim — didefinisikan di sinonim.c */
+extern Sinonim sinonimList[500];
+extern int     jumlahSinonim;
+
 /* Memuat relasi sinonim dari file synonym.txt ke sinonimList[] */
 void loadSinonim(const char *filename);
 
@@ -17,4 +21,4 @@ int cariSinonim(const char *kata);
 /* Cetak semua sinonim berdasarkan indeks di sinonimList */
 void tampilSinonim(int index);
 
-#endif 
+#endif /* SINONIM_H */
