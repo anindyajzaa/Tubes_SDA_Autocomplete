@@ -1,6 +1,877 @@
-sakit|nyeri|perih|menderita|tidak sehat
-santai|rileks|tenang|leha-leha
-senang|bahagia|gembira|suka cita
-segar|sejuk|jernih|bersih
-semangat|gairah|antusias|bergairah
-sopan|santun|beradab|terpuji
+Format: Kata | Sinonim
+
+Abadi        | kekal, langgeng, abadi, lestari, azali
+Abai         | lalai, acuh, cuek, lengah, tidak peduli
+Abad         | kurun, zaman, era, generasi, masa
+Abang        | kakak, kanda, mas, kak, saudara tua
+Abdi         | hamba, pelayan, prajurit, sahaya, bawahan
+Abjad        | alfabet, huruf, aksara, ejaan, fonem
+Absen        | mangkir, tidak hadir, bolos, alfa, meninggalkan
+Abu          | sisa bakaran, debu, pasir, ampas, kelabu
+Acara        | agenda, kegiatan, program, jadwal, susunan acara
+Acu          | arahkan, tuju, rujuk, referensi, mengacu
+Ada          | hadir, berada, terdapat, eksis, tersedia
+Adab         | sopan santun, tata krama, etika, budi pekerti, kesopanan
+Adik         | adinda, adi, saudara muda, dik, junior
+Adil         | fair, saksama, tidak memihak, merata, setimpal
+Agama        | religi, kepercayaan, keyakinan, iman, akidah
+Agung        | mulia, luhur, besar, megah, terhormat
+Ahli         | pakar, spesialis, expert, mahir, profesional
+Air          | cairan, banyu, toya, bening, tirta
+Ajar         | didik, latih, bimbing, tuntun, arahkan
+Akhir        | ujung, penghujung, penutup, terakhir, tamat
+Alam         | semesta, dunia, jagat, lingkungan, universe
+Alat         | perkakas, peralatan, instrumen, piranti, sarana
+Alim         | saleh, taat, rajin ibadah, berilmu, soleh
+Alur         | jalan cerita, plot, kronologi, rangkaian, urutan
+Amal         | kebajikan, kebaikan, perbuatan baik, sumbangan, pahala
+Amanah       | kepercayaan, tanggung jawab, titipan, komitmen, janji
+Amuk         | mengamuk, murka, ganas, beringas, brutal
+Anak         | buah hati, keturunan, putra, putri, bocah
+Angin        | bayu, semilir, hawa, udara bergerak, tiupan
+Angkat       | angkut, pikul, bawa, jinjing, dinaikkan
+Anjing       | sudrun, guguk, bino, jongos (tidak baku), canine
+Antara       | di tengah, di antara, di sela, dalam rentang, di pertengahan
+Apik         | rapi, indah, bersih, cantik, menawan
+Apung        | mengambang, terapung, melayang, mengapung, terombang-ambing
+Arah         | jurusan, tujuan, orientasi, sasaran, haluan
+Arang        | bara, jelaga, hitam gosong, karbon, sisa api
+Arus         | aliran, ombak, debit, derasnya, pergerakan
+Asah         | tajamkan, poles, haluskan, runcingkan, tempa
+Asli         | autentik, orisinal, murni, genuine, tidak palsu
+Asing        | luar negeri, tidak dikenal, anonim, janggal, ganjil
+Asuh         | rawat, besarkan, didik, pelihara, momong
+Atas         | puncak, bagian atas, di atas, sebelah atas, ketinggian
+Atur         | susun, kelola, rapikan, organisir, tata
+Awas         | waspada, siaga, hati-hati, berjaga, sigap
+Awet         | tahan lama, kuat, kokoh, tidak mudah rusak, durable
+Ayah         | bapak, papa, abah, rama, orang tua laki-laki
+Ayam         | unggas peliharaan, pitik, manuk, si jago, gallus
+Ayat         | klausa, kalimat suci, pasal, bab, bagian teks
+Azas         | dasar, prinsip, pokok, pondasi, landasan
+Babak        | ronde, sesi, tahap, bagian, fase pertandingan
+Bahas        | kaji, diskusi, telaah, ulas, analisis
+Bahu         | pundak, cunduk, sebelah lengan, bawah leher, pangkal lengan
+Baik         | bagus, terpuji, bermoral, positif, elok
+Baju         | pakaian, busana, seragam, baju, kostum
+Bakat        | talenta, kemampuan alami, potensi, anugerah, gift
+Balas        | jawab, respons, tanggapan, membalas, reaksi
+Balap        | lomba, berlomba, adu cepat, pacu, kontes kecepatan
+Balik        | kembali, pulang, balik kanan, berbalik, kembali asal
+Bangga       | puas, gembira, berbunga hati, berbesar hati, sumringah
+Bangku       | kursi panjang, tempat duduk, bench, papan duduk, balai-balai
+Bantah       | sangkal, tolak, gugat, kontra, protes
+Bantu        | tolong, sokong, dukung, bantu, asistensi
+Baru         | segar, terbaru, terkini, mutakhir, belum pernah ada
+Batas        | tepi, garis pembatas, limit, ujung, batasnya
+Bawa         | angkut, bawa serta, muat, pindahkan, nenteng
+Bayar        | lunasi, serahkan uang, membayar, berikan, bayarkan
+Bebas        | merdeka, leluasa, tidak terkekang, otonom, independen
+Bekal        | persiapan, perlengkapan, bawaan, cadangan, ransum
+Bela         | lindungi, proteksi, pertahankan, jaga, perisai
+Belah        | bagi, pecah, pisah, potong, cerai
+Beli         | borong, beli tunai, perolehan, akuisisi, membeli
+Benih        | bibit, biji, embrio, cikal, asal
+Bentuk       | wujud, rupa, format, model, pola
+Berani       | gagah berani, nekad, tabah, pemberani, tangguh
+Beri         | serahkan, kasih, anugrahkan, berikan, hadiahkan
+Bersih       | suci, murni, tidak kotor, higenis, steril
+Bijak        | arif, bijaksana, cerdas, pandai, bestari
+Biru         | lazuardi, safa, biru langit, biru laut, biru tua
+Bisa         | mampu, sanggup, dapat, kompeten, boleh
+Bocah        | anak kecil, kanak-kanak, si kecil, junior, kiddie
+Bodoh        | dungu, tolol, bebal, kurang cerdas, tulalit
+Bola         | bola bundar, sphere, benda bulat, balongan, gelondongan bulat
+Boros        | hambur, foya-foya, berlebihan, wasteful, mubazir
+Bubur        | nasi lembek, nasi tim, congee, makanan lunak, jenang
+Buku         | kitab, teks, naskah, pustaka, diktat
+Bumi         | dunia, bumi pertiwi, tanah air, planet kita, bumi itu
+Bunga        | kembang, mekar, sari bunga, flora, mahkota
+Buntu        | macet, buntu jalan, tersumbat, stagnan, tidak ada solusi
+Buru         | kejar, tangkap, berburu, laksanakan, panen
+Busuk        | membusuk, rusak, basi, rotten, tidak segar
+Buta         | tidak melihat, tunanetra, gelap, silau total, tidak tahu
+Cahaya       | sinar, terang, kilau, selayang pandang, pencahayaan
+Cakap        | pandai, terampil, handal, mahir, kompeten
+Cepat        | gesit, tangkas, lekas, segera, ekspres
+Cerita       | kisah, narasi, dongeng, hikayat, riwayat
+Cinta        | kasih sayang, cinta kasih, asmara, eros, sayang
+Coblos       | tusuk, lubangi, pilih, centang, pilih suara
+Cabut        | cabutkan, lepaskan, tarik keluar, ungsikan, bawa pergi
+Cakram       | piringan, disk, lingkaran pipih, piring, roda
+Campur       | aduk, mix, gabungkan, satukan, campurkan
+Cantik       | jelita, rupawan, indah, ayu, elok
+Cari         | cari tahu, temukan, gali, pungut, telusuri
+Catat        | tulis, dokumentasikan, rekam, note down, abadikan
+Cegah        | halangi, hindari, bendung, blok, pencegahan
+Celah        | sela, lubang kecil, rongga, kesempatan, peluang
+Cemas        | khawatir, gelisah, resah, was-was, gusar
+Cermat       | teliti, seksama, hati-hati, akurat, presisi
+Cermin       | kaca, pantulan, refleksi, bayangan, tembus pandang
+Cicil        | angsur, kredit, bayar berkala, nyicil, installment
+Cipta        | buat, kreasi, ciptakan, karang, tulis
+Cocok        | sesuai, pas, tepat, match, klop
+Coret        | hapus, gores, corat-coret, tandai, eliminasi
+Cuci         | bersihkan, basuh, siram, laundry, sterilkan
+Cukup        | memadai, pas, tidak kurang, adequat, terpenuhi
+Culas        | curang, licik, penuh tipu, korup, tidak jujur
+Cuma         | hanya, saja, semata, melulu, sekedar
+Curiga       | prasangka, sangka buruk, skeptis, menaruh sangka, waspada
+Dadah        | narkoba, narkotika, obat terlarang, drugs, zat adiktif
+Daftar       | list, catatan, inventaris, roster, register
+Dahulu       | dulu, masa lampau, sebelum ini, tempo dulu, terdahulu
+Dalam        | interior, di tengah, bagian dalam, ke dalam, mendalam
+Damai        | tenteram, aman, harmonis, rukun, damai sentosa
+Dana         | uang, modal, biaya, anggaran, dana simpanan
+Dapat        | berhasil, peroleh, mampu, capai, raih
+Dapur        | pawon, tungku memasak, ruang masak, kitchen, ruang makanan
+Darah        | plasma, cairan tubuh, serum, darah merah, hemoglobin
+Dasar        | landasan, pondasi, basis, fundamen, prinsip
+Datang       | tiba, hadir, sampai, muncul, hadiri
+Dedikasi     | pengabdian, ketulusan, loyalitas, komitmen, devotion
+Dengar       | simak, dengarkan, perhatikan, cermati, tangkap
+Dekat        | berdekatan, saling dekat, proximity, hampir, tidak jauh
+Desa         | kampung, perkampungan, dusun, pedalaman, rural
+Diam         | sunyi, hening, bisu, tenang, senyap
+Didik        | ajar, latih, bimbing, tuntun, bentuk
+Diri         | jati diri, individu, sosok, pribadi, identitas
+Dorong       | desak, push, gerakkan ke depan, giring, motivasi
+Duduk        | bertumpu, kongkow, beristirahat, bersila, menetap
+Duka         | sedih, pilu, nestapa, berduka, kesedihan
+Dulu         | dahulu, terdahulu, masa lalu, waktu itu, terdahulunya
+Dusta        | bohong, fitnah, bual, palsu, pembohongan
+Empat        | four, IV, bilangan empat, angka empat, quartet
+Enak         | lezat, nikmat, sedap, gurih, yummy
+Dagang       | berdagang, jual beli, niaga, bisnis, berjualan
+Daging       | daging sapi, daging ayam, otot, flesh, protein hewani
+Daki         | panjat, naik, melejit, mendaki, mendaki tinggi
+Dalih        | alasan bohong, pembenaran, kambing hitam, excuse, berkilah
+Damba        | rindu, inginkan, merindukan, idamkan, nantikan
+Dangkal      | tidak mendalam, picik, kurang dalam, superficial, sempit
+Daulat       | kedaulatan, kekuasaan, otoritas, sovereinitas, wewenang
+Dawai        | senar, kawat tipis, tali gitar, string, senar musik
+Debat        | perdebatan, diskusi, adu pendapat, polemik, argumen
+Debu         | serbuk, partikel halus, abu halus, kotoran udara, dust
+Delap        | kue tradisional, panganan, penganan, kudapan, snack
+Dendang      | senandung, nyanyikan, berlagu, menyanyikan, humming
+Dendam       | kesumat, kebencian, amarah tersimpan, grudge, sakit hati
+Depot        | gudang, tempat simpan, warung makan, kafe, resto
+Deras        | kencang, cepat mengalir, deras sekali, kuat, pesat
+Deretan      | barisan, baris, kolom, susunan, list
+Dermaga      | pelabuhan, pelabuhan kecil, dok, pier, jetty
+Desak        | paksa, minta keras, tekan, dorong, kepung
+Dewan        | badan, lembaga, komisi, majelis, parlemen
+Dewasa       | matang, baligh, adult, tidak kanak-kanak, sudah besar
+Doa          | harapan, permohonan, pinta, sembah, munajat
+Dobrak       | hancurkan pintu, bongkar paksa, terobos, buka paksa, robohkan
+Dompet       | kantong uang, purse, tempat kartu, wallet, saku uang
+Dongeng      | cerita rakyat, fabel, legenda, kisah khayal, mitos
+Dorongan     | motivasi, impuls, insentif, desakan, stimulus
+Dosa         | kesalahan, pelanggaran, khilaf, dosa besar, salah
+Dukung       | bantu, sokong, back up, support, topang
+Dungu        | bodoh, bebal, tidak cerdas, tulalit, tolol
+Dunia        | bumi, jagat, alam, semesta, planet
+Durasi       | lamanya, jangka waktu, periode, waktu berlangsung, rentang waktu
+Duri         | onak, tajam, sepul, berduri, rintangan
+Duta         | perwakilan, utusan, ambassador, wakil resmi, envoy
+Energi       | tenaga, kekuatan, daya, power, vitalitas
+Fajar        | subuh, pagi buta, awal hari, dini hari, aurora
+Fakta        | kenyataan, data, bukti, realita, kebenaran
+Fasilitas    | sarana, prasarana, layanan, infrastruktur, akomodasi
+Figur        | tokoh, sosok, panutan, teladan, pemuka
+Fokus        | konsentrasi, memusatkan, atensi, pusatkan, serius
+Forum        | diskusi, musyawarah, kongres, seminar, platform
+Fungsi       | kegunaan, manfaat, peran, tugas, purpose
+Gabung       | bergabung, satukan, gabungkan, ikut serta, bergaul
+Gagal        | kalah, tidak berhasil, tumbang, mati, urung
+Gagah        | perkasa, tampan, gagah berani, kuat, berwibawa
+Gagasan      | ide, pikiran, konsep, pemikiran, inovasi
+Galak        | garang, beringas, ganas, sangar, agresif
+Edar         | beredar, berputar, sebarkan, distribusi, circulasi
+Ejek         | olok-olok, hina, cemooh, bully, mengejek
+Ekor         | buntut, ujung belakang, appendage, bagian belakang, ekornya
+Elas         | elastisitas, elastis, kenyal, merenggang, fleksibel
+Emosi        | perasaan, rasa, afeksi, sentimen, gejolak hati
+Empuk        | lunak, lembut, nyaman ditekan, soft, tidak keras
+Encek        | tuan, paman, om, sopan panggilan, encik
+Era          | zaman, periode, masa, kurun, tahap
+Erang        | merintih, mengeluh, suara kesakitan, keluhan, rintihan
+Erat         | kuat, kie, akrab, dekat, tidak mudah lepas
+Esai         | tulisan, artikel, opini, karangan, catatan
+Estafet      | relay, bergantian, berantai, bergiliran, penerusan
+Etika        | moral, akhlak, tata krama, norma, kepantasan
+Etnis        | suku, ras, kelompok etnis, golongan, bangsa
+Evaluasi     | penilaian, assessment, ulasan kritis, riset, tinjauan
+Evolusi      | perkembangan, transformasi, mutasi, perubahan bertahap, adaptasi
+Ekspresi     | ungkapan, manifestasi, pernyataan, tampilan, isyarat
+Ekspor       | jual ke luar negeri, kirim ke luar negeri, ekspor, penjualan asing, trade
+Elemen       | unsur, komponen, bagian, faktor, item
+Emas         | logam mulia, permata kuning, kencana, gold, berlian kuning
+Empati       | simpati, rasa ikut merasakan, kepedulian, toleransi, ketidakacuhan
+Empiris      | berbasis fakta, berdasarkan pengalaman, evidence-based, konkret, nyata
+Endap        | mengendap, turun ke bawah, merayap, menetap, deposisi
+Ener         | tenaga, kekuatan, semangat, vitalitas, daya
+Enggan       | malas, segan, tidak berminat, reluctant, menolak
+Enjut        | melompat, menggerak naik turun, loncat, lonjak, bounce
+Entah        | tidak tahu, mungkin, barangkali, gatau, tidak pasti
+Entak        | hentakkan, injak keras, hentak, tekan kuat, stamp
+Epik         | luar biasa, dramatis, heroik, megah, grand
+Episod       | bagian serial, satu kejadian, episode, babak, segmen
+Esok         | hari berikutnya, besok, masa depan, hari esok, morrow
+Etal         | etalase, pamer barang, toko, display, gerai
+Etap         | tahapan, tahap perjalanan, sesi, segmen, checkpoint
+Etos         | semangat kerja, karakter kerja, dedikasi, prinsip kerja, work ethic
+Euforia      | kegembiraan meluap, ekstase, gembira berlebih, sukacita luar biasa, haru biru
+Evakuasi     | pemindahan darurat, pengungsian, relokasi, evak, pemindahan
+Ekologi      | ilmu lingkungan, ekosistem, alam, biologi lingkungan, lingkungan hidup
+Ekonomi      | perekonomian, ilmu ekonomi, keuangan, bisnis, finansial
+Eksistensi   | keberadaan, ada, eksistensial, kehidupan, kehadiran
+Eksplisit    | jelas, terang-terangan, nyata, gamblang, terbuka
+Eksperimen   | percobaan, uji coba, penelitian, tes, trial
+Eksklusif    | khusus, terbatas, premium, privat, terpilih
+Ekspansi     | perluasan, pelebaran, pembukaan baru, grow, pengembangan
+Elaborasi    | pengembangan, penjelasan rinci, detail lebih lanjut, uraian, penambahan
+Elastis      | lentur, fleksibel, mudah meregang, karet, bisa meluas
+Elok         | cantik, indah, menawan, rupawan, mempesona
+Embun        | titik air, uap air pagi, kabut tipis, dew, genangan halus
+Empang       | kolam ikan, tambak, kolam budidaya, pond, danau kecil
+Faedah       | manfaat, kegunaan, guna, benefit, kebaikan
+Fahami       | mengerti, paham, cerna, tangkap makna, memahami
+Fakir        | miskin, papa, tidak berpunya, dhuafa, sengsara
+Falsafah     | filsafat, pandangan hidup, ideologi, kebijaksanaan, philosophy
+Fana         | tidak kekal, sementara, binasa, berakhir, fana belaka
+Fantasi      | khayalan, imajinasi, ilusi, mimpi, angan-angan
+Fasih        | lancar, mahir, fluent, pandai bicara, tidak terbata-bata
+Fatwah       | keputusan keagamaan, hukum Islam, pendapat ulama, ruling, fatwa
+Fikih        | hukum Islam, syariah, ilmu tata cara ibadah, jurisprudensi, fiqih
+Fikir        | berpikir, pertimbangkan, renungkan, pikirkan, olah
+Filantropi   | amal sosial, dermawan, charity, kemanusiaan, donasi
+Fisik        | jasmani, badan, tubuh, materi, material
+Fitrah       | sifat bawaan, kesucian, naluri, instinct, bawaan lahir
+Fleksibel    | luwes, lentur, elastis, adaptable, mudah menyesuaikan
+Flora        | tanaman, tumbuhan, vegetasi, alam tumbuhan, botani
+Folio        | kertas besar, ukuran besar, halaman, lembar, buku besar
+Formal       | resmi, ofisial, baku, tidak santai, tertib
+Fosil        | peninggalan purba, batu fosil, sisa organisme, artefak, relic
+Fragmentasi  | pemecahan, pecahan, pembagian, bagian kecil, disintegrasi
+Frasa        | kelompok kata, ungkapan, phrase, gabungan kata, satuan bahasa
+Fraud        | penipuan, kecurangan, manipulasi, tipu daya, scam
+Frontal      | langsung, to the point, tanpa basa-basi, lugas, blak-blakan
+Frustrasi    | kecewa, putus asa, jengkel, marah dalam, stress
+Fundamental  | mendasar, pokok, utama, prinsipil, esensial
+Fungsi       | kegunaan, peran, manfaat, tugas, fungsi utama
+Fungsional   | berdaya guna, berguna, efektif, useful, berfungsi
+Furnitur     | perabot, peralatan rumah, mebel, furniture, perlengkapan
+Fusi         | penggabungan, peleburan, penyatuan, merger, amalgamasi
+Gabungan     | kombinasi, kolaborasi, gabungan, campuran, paduan
+Gairah       | semangat, antusias, hasrat, passion, api semangat
+Galeri       | ruang pamer, museum mini, exhibition, pameran, art space
+Gambaran     | deskripsi, lukisan, ilustrasi, penjelasan, gambaran umum
+Ganas        | buas, beringas, liar, kejam, tidak terkendali
+Ganda        | dobel, dua kali lipat, berlipat, double, duplex
+Ganjil       | aneh, janggal, tidak biasa, odd, tidak genap
+Garang       | galak, buas, seram, menakutkan, beringas
+Garuda       | rajawali, elang besar, burung nasional, bird of paradise, lambang Indonesia
+Gelap        | pekat, tidak bercahaya, kelam, murung, malam
+Gelombang    | ombak, riak, guncangan, wave, getaran air
+Gempa        | lindu, goncangan, earthquake, gempa bumi, pergeseran lempeng
+Generasi     | angkatan, turunan, keturunan, kurun waktu lahir, kalangan sebaya
+Gerak        | langkah, perpindahan, bergerak, gerakan, movement
+Gigih        | ulet, tekun, tidak menyerah, pantang mundur, keras hati
+Global       | mendunia, international, universal, world-wide, menyeluruh
+Gotong       | kerja bersama, bakti sosial, gotong royong, saling membantu, kerjasama
+Gratis       | cuma-cuma, tidak dipungut biaya, bebas biaya, free, percuma
+Gading       | taring gajah, ivory, gigi besar, bahan keras alami, putih gading
+Gagap        | cadel, terbata-bata, tidak lancar, stutter, susah bicara
+Galah        | tongkat panjang, batang, tiang, long stick, batang bambu
+Galang       | himpun, kumpulkan, ajak, mobilisasi, kerahkan
+Gamang       | cemas, ragu, takut, gugup, tidak berani
+Gampang      | mudah, tidak sulit, simple, gampang, ringan
+Gangguan     | hambatan, rintangan, distorsi, masalah, interferensi
+Ganggang     | alga, tumbuhan air, rumput laut, lumut air, algae
+Ganjaran     | hadiah, hukuman, balasan, reward, sanksi
+Garap        | kerjakan, olah, usahakan, tangani, proses
+Garis        | coretan, batas, limit, coretan panjang, line
+Gaul         | bergaul, sosial, modern, trendi, up-to-date
+Gegas        | tergesa, segera, cepat, lekas, terburu
+Gelak        | tawa, gelak tawa, tertawa, cekikikan, senyum lebar
+Gelagat      | pertanda, gejala, tanda, indikasi, petunjuk
+Gelar        | jabatan, titel, nama kehormatan, pangkat, posisi
+Geliat       | bergeliat, menggerakkan badan, menggeliat, pemanasan, fleksibilitas
+Gemilang     | bersinar, cemerlang, sukses, berhasil, terang
+Gendut       | gemuk, tambun, montok, chubby, berlemak
+Genting      | krisis, gawat, kritis, darurat, mendesak
+Gertak       | ancam, intimidasi, gertakan, nakut-nakuti, teror
+Giat         | rajin, tekun, penuh semangat, aktif, berdedikasi
+Girang       | gembira, suka cita, riang, ceria, bahagia
+Godaan       | rayuan, iming-iming, cobaan, tantangan, tawaran
+Golong       | kelompokkan, golongkan, masukkan, kategorikan, klasifikasikan
+Goreng       | masak, tumis, tiriskan, olah makanan, masak dengan minyak
+Gotong royong| kerja sama, kerja bakti, kerjasama sosial, tolong-menolong, saling membantu
+Grogi        | gugup, nervous, tidak percaya diri, demam panggung, salting
+Gulat        | bergulat, berseteru fisik, fighting, wrestling, perkelahian
+Guling       | gelinding, berputar, roll, bergulir, berguling
+Guna         | manfaat, faedah, kegunaan, benefit, peran
+Gunung       | puncak, bukit besar, pegunungan, elevasi tinggi, tanjung
+Gurih        | sedap, enak, lezat, nikmat, yummy
+Guru         | pengajar, pendidik, ustaz, instruktur, pembimbing
+Gusar        | marah, kesal, jengkel, tidak suka, tersinggung
+Guyub        | rukun, kompak, akur, bersatu, harmonis
+Guyur        | siram, tabur air, curah, guyurkan, tuangkan
+Hadap        | menghadap, tatap, posisi ke arah, face, berhadapan
+Hadir        | datang, tiba, muncul, ada di sini, menghadiri
+Hafal        | ingat di luar kepala, memorize, tahu betul, hapal, bisa hafal
+Halal        | boleh, sah, tidak terlarang, legal (dalam syariah), mubah
+Halus        | lembut, tidak kasar, sopan, halus suara, gentle
+Harapan      | impian, keinginan, cita-cita, ekspektasi, asa
+Harga        | nilai tukar, banderol, biaya, tarif, price
+Hari         | tanggal, satu waktu, kesempatan, day, waktu 24 jam
+Harmonisasi  | penyelarasan, sinkronisasi, keserasian, harmoni, rekonsiliasi
+Hebat        | luar biasa, keren, mengagumkan, fantastic, spektakuler
+Hemat        | irit, tidak boros, bijak keuangan, frugal, cermat
+Hidup        | bernafas, eksis, menjalani, survive, hidup terus
+Hikayat      | cerita lama, kisah zaman dahulu, teks Melayu lama, epos, narasi klasik
+Hikmah       | pelajaran, kebijaksanaan, nilai, wisdom, makna dalam
+Hindari      | jauhi, elak, hindari, cegah, menyingkir
+Hormat       | segan, kagum, sopan, respect, menghormati
+Hubungan     | kaitan, relasi, koneksi, keterkaitan, link
+Hukum        | aturan, regulasi, peraturan, ketentuan, undang-undang
+Hutan        | rimba, belantara, hutan rimba, jungle, pohon lebat
+Ibu          | mama, bunda, emak, mak, orang tua perempuan
+Ikhlas       | tulus, rela, legawa, tanpa pamrih, sincere
+Ilmu         | pengetahuan, sains, keilmuan, wawasan, knowledge
+Iman         | keyakinan, kepercayaan, akidah, faith, keteguhan hati
+Impian       | cita-cita, harapan, angan-angan, dream, keinginan
+Ingin        | berhasrat, menghendaki, mau, berkeinginan, mendamba
+Inspirasi    | dorongan, motivasi, ide, spark, stimulasi
+Irama        | ritme, tempo, ketukan, beat, pola bunyi
+Istimewa     | spesial, luar biasa, spesifik, eksklusif, premium
+Izin         | ijin, persetujuan, lisensi, pengesahan, perkenan
+Jaga         | pantau, awasi, lindungi, berjaga, kawal
+Jalur        | lintasan, jalan, rute, track, lorong
+Jelas        | terang, gamblang, transparan, pasti, tidak ambigu
+Jiwa         | roh, semangat, nyawa, spirit, nafas hidup
+Juang        | berjuang, berusaha keras, perjuangkan, campakan, hadapi
+Kagum        | terkesan, takjub, heran, terpesona, salut
+Karya        | hasil kerja, produksi, ciptaan, kreasi, output
+Kebaikan     | kebajikan, keluhuran, keutamaan, amal, virtus
+Kemenangan   | kejayaan, keberhasilan, kemenangan, sukses, triumph
+Kepercayaan  | keyakinan, amanah, trust, iman, rasa percaya
+Kerjasama    | kolaborasi, kerja tim, sinergi, kemitraan, cooperative
+Kesabaran    | ketabahan, ketenangan, panjang sabar, stoikisme, tidak terburu
+Kreasi       | ciptaan, karangan, inovasi, produksi, creation
+Kuasa        | kekuasaan, wewenang, otoritas, power, authority
+Ibadah       | ritual, sembahyang, devosi, pengabdian kepada Tuhan, doa
+Ikhtisar     | ringkasan, rangkuman, summary, sinopsis, intisari
+Ikhtiar      | usaha, upaya, daya, langkah, inisiatif
+Iklim        | cuaca, suhu rata-rata, kondisi atmosfer, hawa, temperatur
+Imajinatif   | kreatif, berimajinasi tinggi, inovatif, berdaya cipta, penuh ide
+Implikasi    | dampak, akibat, konsekuensi, efek, pengaruh
+Individu     | pribadi, orang, perorangan, diri, seseorang
+Industri     | pabrik, manufaktur, sektor usaha, enterprise, produksi
+Infrastruktur| fasilitas dasar, sarana prasarana, utilitas, support system, foundation
+Inisiatif    | prakarsa, kemauan, tindak pertama, proaktif, langkah awal
+Inovasi      | pembaruan, penemuan, kreasi baru, modernisasi, invention
+Instansi     | lembaga, badan, kantor, unit pemerintah, dinas
+Integritas   | kejujuran, konsistensi, kehormatan, moral, kepercayaan diri
+Interaksi    | hubungan timbal balik, komunikasi, relasi, pertukaran, dialog
+Internasional| global, antarbangsa, lintas negara, dunia, multinasional
+Interpretasi | penafsiran, pemahaman, tafsir, analisis, makna
+Investasi    | penanaman modal, pengelolaan dana, modal usaha, invest, financial planning
+Ironi        | kontras, kebalikan, paradoks, hal yang bertentangan, sinis
+Irigasi      | pengairan, sistem air, saluran irigasi, water supply, sistem pengairan
+Isyarat      | tanda, sinyal, kode, petunjuk, petanda
+Jalanan      | jalan raya, jalan kaki, jalan beraspal, rute, lorong
+Jaminan      | garansi, agunan, jaminan, tanggungan, collateral
+Jarak        | rentang, jeda, space, ruang antar, panjang
+Jasa         | pelayanan, kontribusi, service, manfaat, bakti
+Jawab        | respons, balas, tanggapi, menjawab, reaksi
+Jejak        | bekas, tanda, rekam jejak, track, tapak
+Jenderal     | panglima, petinggi militer, komandan, marsekal, pangkat tinggi
+Jenis        | macam, ragam, tipe, golongan, kategori
+Jujur        | jujur, berkata benar, transparan, tulus hati, sincere
+Julukan      | nama panggilan, sebutan, gelar, nama samaran, alias
+Kalimat      | ujaran, klausa, pernyataan, sentence, ekspresi bahasa
+Karakter     | watak, sifat, kepribadian, tabiat, ciri khas
+Kebijakan    | regulasi, ketetapan, peraturan, keputusan, policy
+Keberhasilan | sukses, pencapaian, kemenangan, prestasi, achievement
+Kebudayaan   | peradaban, culture, budaya, warisan, tradisi
+Kehormatan   | harga diri, martabat, prestise, wibawa, nama baik
+Keteladanan  | contoh, panutan, teladan, model, acuan moral
+Kreativitas  | daya cipta, inovasi, kreasi, keunikan, talenta
+Kritis       | analitis, tajam, cermat, tegas, kritis
+Kualitas     | mutu, standar, grade, bobot, kualitas
+Jabat        | salam, bersalaman, jabat tangan, jabatan, genggam
+Jagoan       | juara, pahlawan, champion, yang terdepan, terbaik
+Jahat        | buruk, tidak bermoral, jahat, durjana, kejam
+Jalan        | rute, cara, jalan raya, metodologi, akses
+Jangkauan    | batas, reach, kemampuan menjangkau, kapasitas, jarak capai
+Janji        | komitmen, kata-kata, perjanjian, ikrar, kesanggupan
+Jawara       | juara, pemenang, champion, terbaik, jagoan
+Jejaring     | jaringan, koneksi, network, sistem kaitan, relasi
+Jimat        | ajimat, benda keberuntungan, talisman, amulet, jimat pelindung
+Jinakkan     | jinak, tunduk, domestikasi, taklukkan, domasikasikan
+Jogetan      | tarian, gerakan tubuh, dance, dansa, menari
+Jujukan      | urutan, rangkaian, sequence, list, susunan
+Jumlah       | total, banyaknya, sum, angka, kuantitas
+Juntrung     | arah, tujuan, jurusan, ke mana, haluan
+Jurnalis     | wartawan, reporter, penulis berita, editor, media person
+Kabut        | berkabut, awan tipis, asap tipis, haze, uap tebal
+Kaji         | teliti, analisis, studi, pelajari, riset
+Kalangan     | golongan, kelompok, lapisan, komunitas, circle
+Kampung      | desa, perkampungan, dusun, kelurahan, wilayah kecil
+Karunia      | anugerah, berkat, rahmat, hadiah, nikmat
+Kasih        | cinta, sayang, afeksi, perasaan kasih, love
+Kawan        | teman, sahabat, kawan dekat, partner, kolega
+Kebenaran    | fakta, kenyataan, realitas, truth, kebenaran sejati
+Kebersamaan  | solidaritas, kompak, bersama, kolektif, unity
+Kehidupan    | hidup, eksistensi, menjalani hari, aktivitas, kehidupan sehari-hari
+Kejujuran    | integritas, transparansi, ketulusan, honesty, kepercayaan
+Kekuatan     | daya, tenaga, power, kapasitas, kemampuan
+Kemerdekaan  | kebebasan, independensi, otonomi, merdeka, liberation
+Kemampuan    | kapasitas, kompetensi, skill, bakat, kebisaan
+Kemandirian  | independensi, otonomi, kebebasan, berdiri sendiri, self-reliance
+Komunitas    | masyarakat, kelompok, komunal, lingkungan sosial, group
+Koreksi      | perbaikan, revisi, betulkan, editing, penyempurnaan
+Krisis       | gawat darurat, situasi kritis, bahaya, emergency, kegentingan
+Kabar        | berita, informasi, warta, laporan, update
+Kadang       | sesekali, terkadang, sewaktu-waktu, sometimes, tidak selalu
+Kaget        | terkejut, shock, terperanjat, kerepotan, tercengang
+Kalah        | menyerah, tumbang, dikalahkan, mundur, lose
+Kamar        | ruangan, bilik, kamar tidur, ruang istirahat, chamber
+Kampanye     | sosialisasi, promosi, advokasi, kampanye politik, propaganda
+Keahlian     | skill, kompetensi, kecakapan, kemahiran, ketrampilan
+Keadilan     | fair, kesetaraan, persamaan hak, equity, justice
+Kebahagiaan  | suka cita, kegembiraan, sukacita, happiness, ketenteraman
+Kebebasan    | kemerdekaan, otonomi, independen, leluasa, liberty
+Keberanian   | keberanian, nekad, keberanian sejati, keteguhan, pemberani
+Kedamaian    | ketenangan, tenteram, harmoni, peace, ketentraman
+Keindahan    | estetika, kecantikan, keelokkan, beauty, daya tarik visual
+Keinginan    | hasrat, nafsu, ambisi, desire, angan-angan
+Kejadian     | peristiwa, event, insiden, perkara, situasi
+Keluarga     | rumah tangga, kerabat, saudara, keluarga inti, family
+Kemanfaatan  | manfaat, faedah, utility, kegunaan, keuntungan
+Kenangan     | memori, ingatan, pengalaman lalu, nostalgia, catatan hati
+Kesehatan    | sehat, kebugaran, kondisi prima, wellness, kesegaran
+Kesetiaan    | loyalitas, setia, keteguhan, fidelity, kepercayaan
+Keterbukaan  | transparansi, openness, jujur, terbuka, tidak sembunyi
+Ketulusan    | keikhlasan, kemurnian hati, kejujuran, sinceritas, tanpa pamrih
+Ketuntasan   | kelengkapan, keselesaian, komprehensif, completeness, keterpenuhi
+Kewajiban    | tugas, tanggung jawab, obligasi, duty, kewajiban moral
+Kewirausahaan| entrepreneurship, jiwa bisnis, usaha mandiri, keberanian usaha, bisnis
+Khidmat      | serius, penuh hormat, sungguh-sungguh, formal, khusyuk
+Kodrat       | takdir, nasib, sifat alami, nature, bawaan
+Komitmen     | janji teguh, dedikasi, tekad, kesanggupan, pledge
+Kompeten     | mampu, cakap, ahli, terampil, qualified
+Konsisten    | teguh, tidak berubah, stabil, steady, tetap
+Kontribusi   | sumbangan, partisipasi, andil, share, peran serta
+Lahan        | tanah, wilayah pertanian, petak, luas tanah, bidang
+Lambang      | simbol, tanda, ikon, logo, emblem
+Laut         | samudra, lautan, perairan asin, bentang laut, ocean
+Layak        | pantas, sesuai, patut, appropriate, wajar
+Lebih        | melebihi, berlebih, surplus, over, melampaui
+Lembaga      | institusi, organisasi, badan resmi, yayasan, instansi
+Lembar       | helaian, halaman, kertas, lembaran, page
+Lengkap      | komplit, penuh, tak kurang, komprehensif, sempurna
+Lestari      | abadi, kekal, terjaga, sustainable, tidak punah
+Lincah       | gesit, tangkas, energik, agile, aktif
+Lisan        | verbal, secara mulut, oral, ucapan, lisan
+Logika       | penalaran, akal, rasional, reason, nalar
+Loyal        | setia, patuh, taat, pengabdi, faithful
+Lugas        | terus terang, langsung, blak-blakan, tanpa basa-basi, gamblang
+Luhur        | mulia, agung, terhormat, noble, bermartabat
+Lukisan      | gambaran, karya seni, painting, canvas, ilustrasi
+Luwes        | supel, fleksibel, mudah menyesuaikan, adaptif, tidak kaku
+Maju         | berkembang, progres, meningkat, progress, ke depan
+Makna        | arti, pengertian, tafsir, esensi, significance
+Mandiri      | otonom, independen, berdiri sendiri, tidak bergantung, self-reliant
+Manfaat      | kegunaan, faedah, guna, benefit, nilai plus
+Masyarakat   | komunitas, publik, rakyat, warga, society
+Masukan      | saran, rekomendasi, input, feedback, pendapat
+Merdeka      | bebas, independen, otonom, tidak dijajah, liberated
+Modal        | kapital, investasi awal, biaya awal, dana usaha, capital
+Motivasi     | dorongan, semangat, insentif, drive, stimulus
+Mulia        | terhormat, luhur, agung, terpuji, noble
+Murni        | asli, bersih, autentik, tidak ternoda, pure
+Musyawarah   | mufakat, rembug, diskusi bersama, perundingan, deliberasi
+Nafsu        | hasrat, keinginan, dorongan, gairah, desire
+Nalar        | akal, logika, rasio, pemikiran, penalaran
+Nilai        | harga, standar, ukuran, prinsip, value
+Norma        | aturan, pedoman, standar, kaidah, patokan
+Nurani       | suara hati, hati sanubari, kata hati, conscience, batin
+Maaf         | permintaan maaf, ampun, sorry, penyesalan, taubat
+Mahir        | terampil, ahli, cakap, kompeten, expert
+Makhluk      | creature, organisme, ciptaan Tuhan, makhluk hidup, being
+Mampu        | sanggup, bisa, kompeten, capable, dapat
+Mantap       | kokoh, stabil, yakin, kuat, steady
+Marah        | jengkel, gusar, kesal, murka, tersinggung
+Masa         | waktu, zaman, periode, era, saat
+Masalah      | persoalan, problem, hambatan, kesulitan, tantangan
+Mata         | pandangan, penglihatan, organ mata, cermat, indra
+Matang       | siap, dewasa, berkembang penuh, established, tidak mentah
+Mawas diri   | introspeksi, refleksi, mengevaluasi diri, self-review, instropeksi
+Mekar        | berkembang, tumbuh, membuka, blossom, berkembang pesat
+Menang       | berhasil, juara, meraih kemenangan, succeed, triumph
+Menghargai   | menghormati, mengapresiasi, menghargai, respect, memuliakan
+Menjaga      | merawat, melindungi, memelihara, memantau, guarding
+Menyadari    | memahami, mengakui, sadar, insaf, mengerti
+Minat        | ketertarikan, hasrat, hobi, passion, keinginan
+Misi         | tugas, tujuan khusus, mandat, assignment, mission
+Moderasi     | keseimbangan, jalan tengah, tidak berlebihan, moderate, tengah-tengah
+Moral        | akhlak, etika, budi pekerti, nilai, susila
+Murid        | pelajar, siswa, anak didik, student, peserta
+Musim        | periode cuaca, kurun, masa, season, waktu berulang
+Nasib        | takdir, untung rugi, peruntungan, fate, kodrat
+Nasihat      | saran, arahan, petunjuk, ajaran, bimbingan
+Negara       | bangsa, republik, negeri, tanah air, nation
+Niat         | maksud, tujuan, keinginan, kehendak, intention
+Nikmat       | enak, lezat, menyenangkan, membahagiakan, delicious
+Nomor        | angka, bilangan, urutan, nomor urut, number
+Normatif     | sesuai norma, berstandar, baku, resmi, terstruktur
+Nyata        | konkret, terbukti, riil, real, ada buktinya
+Obyektif     | tidak memihak, netral, berdasar fakta, imparsial, objective
+Otoritas     | wewenang, kekuasaan, kuasa resmi, authority, hak
+Optimis      | positif, harapan tinggi, bersemangat, confident, hopeful
+Nada         | bunyi, irama, intonasi, tone, suara
+Nafas        | pernafasan, pernapasan, inhale exhale, udara hirup, respirasi
+Naik         | meningkat, maju, naik tingkat, menanjak, bertambah
+Nampan       | baki, alas pembawa, tray, wadah datar, baskom
+Nampak       | terlihat, tampak, kelihatan, terbukti, visible
+Nangkring    | bertengger, duduk tinggi, nangkring, perch, menapak
+Narasi       | cerita, penuturan, kisah, teks cerita, narration
+Nasional     | kebangsaan, negara, bangsa, patriotis, national
+Natal        | hari raya Kristen, perayaan kelahiran Yesus, Christmas, Natal Kristen, perayaan natal
+Nelayan      | orang laut, pencari ikan, masyarakat pesisir, penangkap ikan, fisher
+Netral       | tidak memihak, seimbang, imparsial, tengah-tengah, objektif
+Nirwana      | surga, moksha, ketenangan abadi, kebahagiaan tertinggi, sorga
+Nuansa       | nada, variasi kecil, gradasi, corak, subtle difference
+Otak         | pikiran, kecerdasan, intellect, brain, akal
+Pantang      | dilarang, tabu, haram, tidak boleh, terlarang
+Pahala       | ganjaran, balasan baik, reward ilahi, berkah, hadiah Tuhan
+Paham        | mengerti, cerna, tangkap, sadar, memahami
+Paduan       | kombinasi, gabungan, perpaduan, mix, sinergi
+Orang        | manusia, individu, person, warga, makhluk
+Obyek        | sasaran, target, benda, hal, subjek
+Nyaman       | tenteram, enak, tenang, comfortable, damai
+Nusantara    | Indonesia, kepulauan Indonesia, tanah air, archipelago, kepulauan nusantara
+Nyawa        | roh, jiwa, nafas, soul, kehidupan
+Naskah       | teks, dokumen, manuscript, tulisan, karangan
+Naluri       | insting, dorongan alami, instinct, refleks, bawaan
+Naif         | polos, lugu, tidak berpengalaman, innocent, lembam
+Navigasi     | penunjuk arah, pandu, route finding, arahan, guidance
+Negosiasi    | perundingan, tawar-menawar, perundingan, deal, diskusi
+Neto         | bersih, net weight, berat bersih, tanpa kemasan, net
+Obat         | penyembuhan, medis, resep dokter, farmasi, medicine
+Objektivitas | imparsialitas, ketidakberpihakan, netralitas, fairness, kejujuran
+Observasi    | pengamatan, pengawasan, pemantauan, research, monitoring
+Olahraga     | latihan fisik, aktivitas fisik, senam, sport, exercise
+Operasi      | bedah, prosedur, tindakan medis, aksi terencana, operasional
+Organisasi   | lembaga, kelompok, komunitas, institution, badan
+Orisinal     | asli, otentik, genuine, murni, original
+Otomatis     | mandiri, self-operating, tanpa campur tangan, mekanis, automatic
+Otonom       | independen, mandiri, berdaulat, autonomous, bebas
+Orientasi    | arahan, pengenalan, panduan, fokus, direction
+Panas        | hangat, bersuhu tinggi, bara, tidak dingin, hot
+Pantai       | tepi laut, pesisir, pantai pasir, bibir laut, coastal
+Pasar        | tempat jual beli, bursa, bazaar, market, pusat perdagangan
+Pasukan      | tentara, kelompok militer, regu, brigade, unit
+Pelajaran    | ilmu, materi ajar, pengalaman berharga, lesson, kurikulum
+Pemimpin     | ketua, kepala, pemimpin, leader, boss
+Pendidikan   | pengajaran, pembelajaran, edukasi, bimbingan, schooling
+Peradaban    | kebudayaan tinggi, civilization, kemajuan budaya, budaya maju, culture
+Perhatian    | kepedulian, atensi, interest, minat, concern
+Perjuangan   | berjuang, usaha keras, pengorbanan, upaya, struggle
+Persatuan    | kesatuan, solidaritas, unity, kekompakan, bersatu
+Prestasi     | pencapaian, keberhasilan, achievement, hasil, sukses
+Prinsip      | asas, dasar, pedoman, keyakinan, standar
+Produktif    | subur, berguna, output banyak, menghasilkan, efisien
+Profesional  | ahli, terlatih, kompeten, berpengalaman, expert
+Proyek       | rencana, skema, program, initiative, kegiatan
+Pahlawan     | hero, pejuang, berjasa, pelindung, champion
+Paksa        | tekan, perintah paksa, paksaan, memaksa, coerce
+Paling       | ter, paling tinggi, sangat, terbaik, superior
+Pamrih       | kepentingan pribadi, imbalan, balas jasa, selfish motive, tidak ikhlas
+Pandang      | lihat, tatap, amati, perhatikan, tengok
+Panutan      | teladan, contoh, role model, acuan, inspirator
+Peduli       | simpati, empati, perhatian, concern, penuh kasih
+Pelestarian  | penjagaan, konservasi, preservasi, perlindungan, sustainability
+Pemahaman    | pengertian, mengerti, wawasan, comprehension, insighit
+Pembangunan  | konstruksi, pengembangan, kemajuan, development, progress
+Pengaruh     | dampak, efek, pengaruh, impact, peran
+Pengetahuan  | ilmu, wawasan, informasi, knowledge, sains
+Pengorbanan  | berkorban, tumbal, dedikasi, sacrifice, kerelaan
+Percaya      | yakin, beriman, trust, optimis, meyakini
+Perdamaian   | damai, harmonis, rekonsiliasi, resolution, ketenteraman
+Perjalanan   | bepergian, trip, perjalanan, tour, traveling
+Perubahan    | transformasi, pergeseran, mutasi, change, pembaruan
+Pesta        | perayaan, selebrasi, celebration, acara gembira, festival
+Pilar        | tiang, penyangga, dasar, kolom, support
+Potensi      | kemampuan tersembunyi, bakat, kapasitas, prospek, potential
+Prakarsa     | inisiatif, ide pertama, awal bertindak, tindak awal, initiative
+Proses       | tahapan, alur, prosedur, serangkaian, flow
+Progresif    | maju, berkembang, inovatif, modern, forward-thinking
+Proporsional | seimbang, setimpal, sesuai porsi, balanced, adil
+Proteksi     | perlindungan, penjagaan, keamanan, safeguard, pertahanan
+Publik       | masyarakat umum, rakyat, orang banyak, khalayak, komunal
+Pustaka      | perpustakaan, buku, referensi, sumber bacaan, library
+Qadha        | putusan Tuhan, ketetapan, takdir, decree, kehendak ilahi
+Qadar        | takdir, nasib, ketetapan, peruntungan, kodrat
+Qalbu        | hati, sanubari, jiwa, lubuk hati, batin
+Qari         | pembaca Al-Quran, murottal, tilawah, ahli baca Al-Quran, qari
+Qiraah       | bacaan, tilawah, cara membaca, recitation, metode
+Qiyas        | analogi, perbandingan, deduktif, analogical reasoning, pengambilan hukum
+Quorum       | jumlah minimum, minimum peserta, kehadiran sah, jumlah syah, kuorum
+Raba         | sentuh, pegang, rasakan, explorasi fisik, palpasi
+Rajin        | giat, tekun, semangat, aktif, tidak malas
+Ramah        | sopan, baik hati, menyenangkan, welcoming, terbuka
+Rasa         | perasaan, indera, sensasi, citarasa, empati
+Rasional     | logis, masuk akal, berdasar fakta, tidak emosional, sistematis
+Rela         | ikhlas, legawa, bersedia, sukarela, willing
+Rendah hati  | humble, tidak sombong, tawadhu, sederhana, merendah
+Rencana      | program, agenda, rancangan, perencanaan, plan
+Respon       | tanggapan, reaksi, balasan, jawaban, response
+Ringan       | enteng, mudah, tidak berat, simple, light
+Rukun        | harmonis, damai, akur, kompak, toleran
+Sabar        | tenang, tahan, tabah, tidak tergesa, bersabar
+Semangat     | gairah, motivasi, antusias, spirit, dorongan
+Setia        | loyal, taat, tidak berkhianat, patuh, devoted
+Sukses       | berhasil, menang, achievement, unggul, win
+Syukur       | terima kasih, berterima kasih, rasa syukur, gratitude, puji Tuhan
+Taqwa        | takwa, saleh, taat beribadah, piety, devosi
+Ragam        | jenis, macam, variasi, tipe, keanekaragaman
+Raih         | capai, gapai, dapatkan, obtain, achieve
+Rakyat       | warga, penduduk, bangsa, masyarakat, komunitas
+Rancang      | rencanakan, desain, buat konsep, draft, skemakan
+Rangkul      | peluk, memeluk, dukung penuh, embrace, rangkul erat
+Rapi         | tertata, teratur, bersih, organized, beres
+Rata         | datar, sejajar, merata, flat, level
+Realistis    | praktis, berdasar kenyataan, masuk akal, down to earth, pragmatis
+Refleksi     | perenungan, introspeksi, bayangan, self-assessment, mawas diri
+Reformasi    | perubahan mendasar, pembaruan, transformasi, restrukturisasi, revolusi
+Regenerasi   | pembaruan, peremajaan, rekondisi, refresh, peralihan generasi
+Rendah       | bawah, tidak tinggi, pesek, rendah profil, modest
+Responsif    | tanggap, cepat, peka, aware, sigap
+Revolusi     | perubahan besar, reformasi total, pergolakan, overhaul, transformasi
+Ridha        | keridhaan, kerelaan, kepuasan, restu, blessing
+Risiko       | bahaya, ancaman, potensi negatif, hazard, danger
+Rohani       | spiritual, jiwa, batiniah, non-fisik, immaterial
+Romantis     | penuh kasih, mesra, penuh cinta, sweet, tender
+Ruang        | tempat, space, area, kawasan, lahan
+Rugi         | kerugian, kalah, merugi, defisit, minus
+Rutin        | teratur, berkala, periodik, terjadwal, regular
+Rumit        | kompleks, sulit, susah, pelik, tidak mudah
+Runtuh       | roboh, rubuh, ambruk, collapse, hancur
+Rupa         | wajah, penampilan, bentuk fisik, muka, tampang
+Rusak        | hancur, tidak berfungsi, cacat, broken, tidak utuh
+Syariah      | hukum Islam, aturan Islam, fikih, konstitusi Islam, Islamic law
+Saling       | timbal balik, berbalas, mutual, reciprocal, satu sama lain
+Santun       | sopan, beradab, halus, etis, berbudi
+Sederhana    | simpel, bersahaja, apa adanya, tidak rumit, plain
+Sadar        | insaf, tahu, menyadari, sadar diri, conscious
+Sahabat      | teman dekat, kawan, kolega, partner, bestie
+Sambut       | terima, sambut hangat, menyambut, welcome, ucapkan selamat
+Santai       | rileks, tenang, tidak tegang, relaxed, casual
+Saran        | anjuran, rekomendasi, petunjuk, advice, masukan
+Serius       | sungguh-sungguh, bersungguh, tidak main, fokus, professional
+Serasi       | harmonis, cocok, selaras, sinkron, match
+Setara       | sama derajat, sejajar, equal, sederajat, tidak ada perbedaan
+Siap         | bersiap, siaga, ready, tanggap, persiapkan
+Sikap        | perilaku, tingkah laku, attitude, postur, pendirian
+Solusi       | jawaban, pemecahan, jalan keluar, cara mengatasi, resolution
+Sopan        | santun, beradab, tata krama, etis, menghormati
+Sosial       | kemasyarakatan, publik, komunal, sosial bermasyarakat, communal
+Strategi     | rencana, taktik, pendekatan, approach, metodologi
+Sumber       | asal, mata air, referensi, asal usul, origin
+Sungguh      | benar-benar, serius, tidak main, genuinely, truly
+Susah        | sulit, tidak mudah, berat, susah payah, keras
+Taat         | patuh, tunduk, disiplin, menurut, comply
+Tanggung     | bertanggung jawab, emban, bawa, pikul, responsible
+Teguh        | kuat, kokoh, tidak goyah, solid, mantap
+Tekun        | rajin, giat, bersungguh, penuh dedikasi, persevering
+Toleransi    | saling menghargai, toleran, keterbukaan, acceptance, respect
+Tradisi      | budaya, kebiasaan turun-temurun, adat, ritual, warisan
+Tulus        | ikhlas, tanpa pamrih, jujur hati, sincere, genuine
+Tuntas       | selesai, rampung, lengkap, complete, habis
+Ulet         | gigih, tidak menyerah, tekun, persistent, pantang mundur
+Unggul       | terbaik, superior, lebih tinggi, outstanding, terdepan
+Tabah        | sabar, kuat, tahan banting, resilient, tidak putus asa
+Takluk       | menyerah, kalah, tunduk, surrender, bow down
+Tanggap      | responsif, peka, cepat merespons, aware, sigap
+Tarbiyah     | pendidikan, pembinaan, pembentukan karakter, edukasi, pengembangan
+Tegar        | kokoh, kuat, tidak goyah, resilient, tak tergoyahkan
+Teladani     | contoh, ikuti, tiru, jadikan panutan, follow
+Terbuka      | transparan, open, mau menerima, tidak tertutup, accessible
+Terencana    | tersusun, dipersiapkan, sistematis, planned, matang
+Tertib       | teratur, disiplin, rapi, sesuai aturan, orderly
+Tindakan     | perbuatan, langkah, aksi, action, aktivitas
+Tulus ikhlas | murni, tanpa pamrih, ikhlas total, jujur sepenuh hati, pure hearted
+Turun        | menurun, ke bawah, jatuh, merosot, descend
+Ucapan       | perkataan, kata-kata, ujaran, kalimat, statement
+Ulasan       | tinjauan, review, komentar, analisis, pembahasan
+Unifikasi    | penyatuan, penggabungan, integrasi, merging, unification
+Upaya        | usaha, ikhtiar, daya, attempt, effort
+Utama        | pokok, terpenting, utama, primer, terdepan
+Visi         | pandangan jauh, misi masa depan, gambaran ideal, mimpi besar, visioner
+Wadah        | tempat, penampung, kontainer, sarana, vehicle
+Wawasan      | pengetahuan, pandangan, knowledge, horizon, pemahaman
+Wibawa       | karisma, kharisma, martabat, prestige, kehormatan
+Yaqin        | yakin, percaya, mantap, not doubt, konviksi
+Tabiat       | watak, sifat, kepribadian, karakter, bawaan
+Takdir       | nasib, peruntungan, ketetapan Tuhan, fate, kodrat
+Takwa        | devosi, saleh, piety, taat beragama, devout
+Tampil       | muncul, hadir, perform, present, menunjukkan
+Tanamkan     | tanam, masukkan nilai, internalisasi, install, install nilai
+Ubah         | ganti, transformasi, modifikasi, konversi, revisi
+Uji          | tes, coba, periksa, evaluasi, verifikasi
+Ukuran       | besaran, dimensi, standar, measure, patokan
+Ulang        | ulangi, lakukan lagi, repeat, redo, ulang kembali
+Umpan        | bait, penarik, godaan, tipuan, lure
+Umum         | publik, semua, berlaku luas, general, populer
+Untung       | laba, beruntung, profit, gain, keberuntungan
+Urai         | jelaskan rinci, detailkan, breakdown, kupas, uraikan
+Urgen        | mendesak, penting, urgent, kritis, harus segera
+Usaha        | upaya, ikhtiar, bisnis, kerja keras, effort
+Utuh         | lengkap, tidak rusak, intact, penuh, sempurna
+Uzur         | halangan, rintangan, alasan, hambatan, maaf
+Varian       | jenis, tipe, varian, berbagai macam, variasi
+Vital        | penting, esensial, kritis, urgent, indispensable
+Wajar        | normal, sesuai, layak, pantas, reasonable
+Waktu        | masa, saat, durasi, momen, periode
+Warga        | anggota, penduduk, rakyat, citizen, komunitas
+Waspada      | siaga, awas, berhati-hati, alert, waspada
+Zaman        | era, masa, periode, kurun, age
+Ubiquitous   | ada di mana-mana, merata, universal, omnipresent, tersebar luas
+Ukhrawi      | akhirat, agamawi, spiritual, keagamaan, ilahi
+Ulil albab   | orang berakal, bijaksana, cendekia, intelektual Islam, pemilik akal budi
+Ummah        | umat, komunitas, warga, bangsa, fellowship
+Universitas  | perguruan tinggi, kampus, sekolah tinggi, institusi pendidikan, college
+Urgensi      | kedesakan, penting segera, kegentingan, urgency, keperluan mendesak
+Ustaz        | guru agama, pengajar Islam, imam, dai, ulama
+Validasi     | verifikasi, pembuktian, konfirmasi, check, persetujuan
+Variabel     | faktor, unsur, parameter, variable, elemen
+Variasi      | ragam, perbedaan, diversity, varian, keberagaman
+Ventilasi    | sirkulasi udara, aerasi, pertukaran udara, ventilation, angin masuk
+Verifikasi   | pembuktian, konfirmasi, check, validasi, pengecekan
+Versi        | edisi, varian, jenis, format, volume
+Veteran      | mantan militer, pejuang lama, berpengalaman, purnawirawan, ekspat
+Visi         | pandangan, misi jangka panjang, harapan masa depan, tujuan besar, impian
+Vokasi       | keterampilan kerja, vocational, profesi, kecakapan, latihan kerja
+Volume       | isi, kapasitas, ukuran, besar, bunyi
+Wakaf        | sedekah harta, amal jariyah, sumbangan keagamaan, endowment, donasi permanen
+Wajib        | keharusan, fardhu, tidak bisa ditawar, mandatory, obligasi
+Warisan      | peninggalan, pusaka, harta turun-temurun, legacy, inheritance
+Wisata       | perjalanan, tour, rekreasi, traveling, liburan
+Yayasan      | lembaga nirlaba, badan sosial, foundation, organisasi sosial, instansi
+Zikir        | doa berulang, tasbih, kalimah suci, dzikir, ibadah lisan
+Viral        | trending, menyebar cepat, populer, booming, hot
+Virtual      | digital, maya, tidak fisik, online, cyber
+Visioner     | berpandangan jauh, futuristis, forward-thinking, masa depan, progresif
+Vokabular    | kosakata, perbendaharaan kata, vocabulary, leksikon, kata-kata
+Volatil      | tidak stabil, fluktuatif, berubah-ubah, labil, unstable
+Volunter     | relawan, sukarela, voluntary, pegiat sosial, tanpa bayar
+Vulgar       | kasar, tidak sopan, tidak pantas, crude, tidak beradab
+Wacana       | diskursus, diskusi, pemikiran, tulisan, narasi
+Wafat        | meninggal, mangkat, berpulang, mati, tutup usia
+Wanita       | perempuan, putri, wanita dewasa, ladies, gadis
+Wujud        | bentuk, rupa, tampilan, eksistensi, keberadaan
+Wewenang     | otoritas, hak, kuasa resmi, mandat, prerogative
+Wahai        | hai, hey, panggilan, seruan, oh
+Waras        | sehat akal, normal, tidak gila, sane, berpikir jernih
+Waris        | ahli waris, pewaris, penerus, beneficiary, keturunan
+Wasiat       | amanat, pesan akhir, pernyataan terakhir, will, testament
+Wawancara    | tanya jawab, interview, diskusi, dialog, percakapan
+Welas asih   | belas kasih, empati, kasih sayang, peduli, compassion
+Wirausaha    | pengusaha, entrepreneur, wiraswasta, pebisnis, self-employed
+Wujudkan     | realisasikan, wujudkan, laksanakan, execute, capai
+Ximenia      | tumbuhan tropis, genus tanaman, jenis pohon, tanaman berbuah, flora tropis
+Xenofobia    | takut orang asing, kebencian terhadap asing, intoleransi, racism, prasangka
+Yatim        | anak tanpa ayah, piatu, anak yatim, tanpa orang tua, orphan
+Yel          | teriakan semangat, sorakan, seruan, cheer, sorak
+Zakat        | kewajiban Islam, infaq, shodaqoh, rukun Islam, amal wajib
+Zalim        | kejam, aniaya, tirani, tidak adil, oppressor
+Zona         | kawasan, wilayah, daerah, area, bagian
+Wortel       | sayuran oranye, sayuran kaya vitamin A, carrot, lobak merah, sayuran
+Wujud        | bentuk, rupa, tampilan fisik, penampakan, keberadaan nyata
+Waspada      | siaga, awas, berhati-hati, alert, hati-hati
+Warung       | kedai, kios, toko kecil, lapak, gerai
+Wilayah      | daerah, kawasan, area, zona, region
+Wiraswasta   | pengusaha, mandiri, self-employed, wirausaha, pebisnis
+Wisata       | liburan, tour, rekreasi, traveling, perjalanan
+Yudisial     | hukum pengadilan, kehakiman, legal, judicative, peradilan
+Yunani       | Hellas, negara kuno Eropa, Yunani Kuno, Hellenic, Greek
+Zakar        | organ vital, kelamin laki-laki, penis, alat reproduksi, anggota badan
+Zakat fitrah | zakat wajib Ramadan, fitrah, infak, sedekah wajib, kewajiban akhir puasa
+Xenia        | mobil keluarga, kendaraan niaga, MPV, kendaraan keluarga, mid-size car
+Xenial       | ramah tamah, suka menjamu, hospitable, welcoming, terbuka
+Xerosis      | kulit kering, kulit bersisik, kekeringan kulit, dry skin, kelainan kulit
+Xylem        | jaringan pembuluh, jaringan tumbuhan, vascular tissue, akar batang, pembuluh kayu
+Xerofit      | tanaman kering, tanaman gurun, tumbuhan sukulen, desert plant, kaktus
+Xantofil     | pigmen tumbuhan, zat warna kuning, karotenoid, pigmen fotosintesis, klorofil kuning
+Xerografi    | fotokopi, cetak statis, photocopying, percetakan bubuk toner, reprografi
+Xenotransplantasi | cangkok lintas spesies, transplantasi hewan ke manusia, xenograft, organ asing, implantasi
+Xylopon      | alat musik pukul, instrumen kayu, gambang, marimbah, perkusi
+Xilofon      | gambang, instrumen pukul, xylopon, alat musik kayu, marimbah
+Yustisi      | kehakiman, peradilan, hukum, judicial, keadilan hukum
+Ziarah       | berkunjung ke makam, ziarah kubur, kunjungan suci, pilgrim, devosi
+Zina         | perbuatan melanggar, seks haram, perzinahan, adultery, maksiat
+Zinnia       | bunga zinnia, tanaman berbunga, flora Meksiko, ornamental plant, kembang zinnia
+Zodiak       | rasi bintang, astrologi, horoskop, bintang kelahiran, ramalan bintang
+Zoogeografi  | persebaran hewan, distribusi fauna, biogeografi, animal geography, ekologi fauna
+Zoologi      | ilmu hewan, biologi hewan, fauna, zoological, kajian hewan
+Zygote       | sel telur yang dibuahi, sel fertil, zigot awal, embrio pertama, hasil pembuahan
+Zirkon       | batu permata, kristal mineral, mineral keras, zirconium silicate, permata
+Zaman edan   | masa kacau, zaman gila, era aneh, periode tidak wajar, masa anomali
+Yuyun        | nama perempuan, nama ikan, ikan lokal, ikan air tawar, nama khas
+Yadnya       | persembahan Hindu, ritual Hindu Bali, pemujaan, kurban suci, offering
+Yasinan      | membaca yasin, tahlilan, doa bersama, pengajian, kegiatan religi
+Yel-yel      | sorakan, seruan semangat, chant, nyanyian motivasi, cheer
+Yoyo         | mainan anak, mainan tali, spin toy, permainan tradisional, hiburan
+Yunani kuno  | peradaban Yunani, Hellas kuno, antiquitas Yunani, Greek civilization, era Hellenistik
+Yurisdiksi   | kewenangan hukum, yurisdiksi pengadilan, wilayah hukum, jurisdiction, kompetensi hukum
+Yayasan sosial| lembaga sosial, NGO, badan nirlaba, LSM, non-profit
+Yaumul qiyamah| hari kiamat, akhir zaman, hari kebangkitan, doomsday, hari akhir
+Yakin        | percaya, mantap, pasti, konviksi, convinced
+Yang         | yang, penanda, penunjuk, pihak, that/which
+Yatim piatu  | anak yatim, tanpa orang tua, orphan, tidak berayah ibu, anak piatu
+Yoghurt      | susu fermentasi, produk susu, probiotik, dairy, olahan susu
+Yogi         | pertapa spiritual, praktisi yoga, asketis, meditator, spiritual practitioner
+Yuran        | iuran, biaya berkala, kontribusi, membership fee, cicilan
+Yuridis      | legal, hukum, sah secara hukum, juridical, berdasar hukum
+Yaumul hisab | hari perhitungan amal, hari hisab, penghitungan akhirat, accountability day, akhir zaman
+Yaumul mizan | hari penimbangan, hari mizan, akhirat, judgement day, hari balasan
+Ziarah kubur | kunjungan makam, doa di kuburan, ziarah, mengirim doa, mendoakan almarhum
+Zamannya     | eranya, masanya, periodenya, era tersebut, kurun waktu itu
+Zakat mal    | zakat harta, zakat kekayaan, infak wajib, kewajiban finansial, sedekah wajib
+Zalzalah     | gempa bumi, keguncangan, guncangan dasyat, earthquake, surat Al-Quran
+Zaman keemasan| puncak kejayaan, era keemasan, golden age, masa terbaik, periode gemilang
+Zenith       | puncak, titik tertinggi, klimaks, apex, the peak
+Zikir pagi   | dzikir subuh, amalan pagi, doa pagi, morning prayer, ibadah pagi
+Zionis       | pendukung Israel, gerakan Zionisme, nasionalis Yahudi, Zionism, pro-Israel
+Zona nyaman  | comfort zone, kondisi aman, daerah nyaman, area tenang, safe space
+Zodiak Barat | astrologi Barat, bintang zodiak, ramalan bintang Barat, horoskop Barat, Western astrology
+Zooterapi    | terapi hewan, animal-assisted therapy, pet therapy, biophilia therapy, terapi binatang
+Zooplankton  | plankton hewan, mikroorganisme laut, hewan mikro, marine plankton, biota laut kecil
+Zwitterion   | ion ganda, ion amfoterik, molekul dipolar, amphoteric ion, ion bermuatan ganda
+Zarif        | elegan, anggun, berkelas, stylish, penuh selera
+Zeal         | semangat membara, antusias, gairah kuat, passion, ghirah
+Zafaran      | safran, rempah kuning, saffron, bumbu berharga, kunyit safron
+Zahid        | asketis, pertapa, zuhud, tidak materialistis, sederhana
+Zahir        | tampak, terlihat, nyata, lahiriah, terbuka
+Zamrud       | batu hijau, permata hijau, emerald, batu mulia, batu berharga
+Zat          | materi, bahan, substansi, material, unsur
+Zuhud        | asketisme, tidak terpaut dunia, sederhana, zuhud, tawadhu
+Zuriat       | keturunan, anak cucu, ahli waris, generasi, posteritas
+Zonasi       | pembagian zona, pembagian wilayah, penataan ruang, zoning, klasifikasi wilayah
+Zymase       | enzim fermentasi, katalis gula, biokimia, enzyme, zat katalis
+Zygospora    | spora gabungan, spora jamur, sporulasi, reproductive spore, spora reproduksi
+Zig-zag      | belok-belok, bolak-balik, tak lurus, berkelok, not straight
+Ziggurat     | menara bertingkat, candi Mesopotamia, bangunan suci kuno, pyramida Mesopotamia, altar tingkat
+Zimografi    | analisis enzim, electrophoresis, gel analysis, enzyme detection, teknik biokimia
+Zinober      | merah cerah, pigmen merah, vermilion, warna mencolok, scarlet
+Zirkonium    | logam transisi, unsur kimia, Zr, metal zirconium, bahan kimia
+Zoas         | larva kepiting, larva krustasea, larva muda, young larvae, stadium larva
+Zombifikasi  | perbudakan pikiran, kontrol total, deprivasi kehendak, manipulation total, dehumanisasi
+Zonula       | sabuk kecil, struktur kecil, cincin kecil, ligamen halus, zona tipis
+Zygodaktil   | jari berpasangan, kaki burung, anatomi kaki burung, jari berhadapan, toe configuration
+Zigot        | sel pertama, sel hasil pembuahan, embrio awal, fertilized egg, sel fertil
+Zimurgi      | fermentasi, ilmu fermentasi, brewing science, pembuatan bir, bioteknologi fermentasi
