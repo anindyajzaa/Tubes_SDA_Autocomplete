@@ -1,4 +1,5 @@
 #define _POSIX_C_SOURCE 200809L
+
 /* ========================================================
    sinonim.c — ADT Sinonim / Thesaurus (Implementasi)
    Kamus Trie — Struktur Data dan Algoritma
@@ -9,43 +10,89 @@
 #include <strings.h>
 #include "sinonim.h"
 
+/* ---------- Konstanta Maksimum Data Sinonim ---------- */
+#define MAX_SINONIM 14912
+
 /* ---------- Definisi variabel data sinonim ---------- */
-Sinonim sinonimList[500];
-int     jumlahSinonim = 0;
+Sinonim sinonimList[MAX_SINONIM];
+int jumlahSinonim = 0;
 
 /* --------------------------------------------------------
    loadSinonim — parsing synonym.txt
-   Format baris: kata|sin1|sin2|sin3|...  (maks 5 sinonim)
+   Format baris: kata|sin1|sin2|sin3|... (maks 5 sinonim)
    -------------------------------------------------------- */
-void loadSinonim(const char *filename) {
+void loadSinonim(const char *filename)
+{
     FILE *fp = fopen(filename, "r");
-    if (!fp) {
-        fprintf(stderr, "[WARN] File \"%s\" tidak dapat dibuka. "
-                        "Fitur sinonim dinonaktifkan.\n", filename);
+
+    if (!fp)
+    {
+        fprintf(stderr,
+                "[WARN] File \"%s\" tidak dapat dibuka. "
+                "Fitur sinonim dinonaktifkan.\n",
+                filename);
         return;
     }
 
-    char baris[300];
+    /* Buffer untuk membaca satu baris file */
+    char baris[1000];
+
     jumlahSinonim = 0;
 
-    while (fgets(baris, sizeof(baris), fp) && jumlahSinonim < 500) {
+    while (fgets(baris, sizeof(baris), fp) &&
+           jumlahSinonim < MAX_SINONIM)
+    {
+        /* Hilangkan karakter newline */
         baris[strcspn(baris, "\r\n")] = '\0';
-        if (strlen(baris) == 0) continue;
+
+        /* Lewati baris kosong */
+        if (strlen(baris) == 0)
+        {
+            continue;
+        }
 
         char *saveptr;
-        char *token = strtok_r(baris, "|", &saveptr);
-        if (!token) continue;
+        char *token;
 
-        strncpy(sinonimList[jumlahSinonim].kata, token, 29);
+        /* Ambil kata utama */
+        token = strtok_r(baris, "|", &saveptr);
+
+        if (token == NULL)
+        {
+            continue;
+        }
+
+        trim(token);
+
+        strncpy(
+            sinonimList[jumlahSinonim].kata,
+            token,
+            29
+        );
+
         sinonimList[jumlahSinonim].kata[29] = '\0';
-        sinonimList[jumlahSinonim].count    = 0;
+        sinonimList[jumlahSinonim].count = 0;
 
+        /* Ambil daftar sinonim */
         int s = 0;
-        while (s < 5) {
+
+        while (s < 5)
+        {
             token = strtok_r(NULL, "|", &saveptr);
-            if (!token) break;
-            strncpy(sinonimList[jumlahSinonim].sinonim[s], token, 29);
+
+            if (token == NULL)
+            {
+                break;
+            }
+
+            strncpy(
+                sinonimList[jumlahSinonim].sinonim[s],
+                token,
+                29
+            );
+
             sinonimList[jumlahSinonim].sinonim[s][29] = '\0';
+
             s++;
             sinonimList[jumlahSinonim].count++;
         }
@@ -54,39 +101,93 @@ void loadSinonim(const char *filename) {
     }
 
     fclose(fp);
-    printf("[INFO] %d data sinonim berhasil dimuat dari \"%s\".\n",
-           jumlahSinonim, filename);
+
+    printf(
+        "[INFO] %d data sinonim berhasil dimuat dari \"%s\".\n",
+        jumlahSinonim,
+        filename
+    );
 }
 
 /* --------------------------------------------------------
    cariSinonim — linear search case-insensitive
    -------------------------------------------------------- */
-int cariSinonim(const char *kata) {
+int cariSinonim(const char *kata)
+{
     int i;
-    for (i = 0; i < jumlahSinonim; i++) {
-        if (strcasecmp(sinonimList[i].kata, kata) == 0)
+
+    for (i = 0; i < jumlahSinonim; i++)
+    {
+        if (strcasecmp(
+                sinonimList[i].kata,
+                kata
+            ) == 0)
+        {
             return i;
+        }
     }
+
     return -1;
 }
 
 /* --------------------------------------------------------
    tampilSinonim — cetak daftar sinonim
    -------------------------------------------------------- */
-void tampilSinonim(int index) {
-    if (index < 0 || index >= jumlahSinonim) {
-        printf("  Sinonim tidak tersedia.\n");
+void tampilSinonim(int index)
+{
+    if (index < 0 || index >= jumlahSinonim)
+    {
+        printf("Sinonim tidak tersedia.\n");
         return;
     }
-    if (sinonimList[index].count == 0) {
-        printf("  Sinonim tidak tersedia.\n");
+
+    if (sinonimList[index].count == 0)
+    {
+        printf("Sinonim tidak tersedia.\n");
         return;
     }
-    printf("  Sinonim: ");
+
+    printf("Sinonim:\n");
+
     int i;
-    for (i = 0; i < sinonimList[index].count; i++) {
-        if (i > 0) printf(", ");
-        printf("%s", sinonimList[index].sinonim[i]);
+
+    for (i = 0; i < sinonimList[index].count; i++)
+    {
+        printf("- %s\n",
+               sinonimList[index].sinonim[i]);
     }
-    printf("\n");
+}
+
+/* --------------------------------------------------------
+   trim
+   Menghapus spasi di depan dan belakang string
+   -------------------------------------------------------- */
+static void trim(char *str)
+{
+    int len = strlen(str);
+
+    while (len > 0 &&
+           (str[len - 1] == ' ' ||
+            str[len - 1] == '\t'))
+    {
+        str[len - 1] = '\0';
+        len--;
+    }
+
+    int start = 0;
+
+    while (str[start] == ' ' ||
+           str[start] == '\t')
+    {
+        start++;
+    }
+
+    if (start > 0)
+    {
+        memmove(
+            str,
+            str + start,
+            strlen(str + start) + 1
+        );
+    }
 }

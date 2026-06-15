@@ -15,7 +15,7 @@
 #include "sinonim.h"
 
 #define FILE_KAMUS   "kamusKata.txt"
-#define FILE_SINONIM "synonim.txt"
+#define FILE_SINONIM "synonym.txt"
 #define MAX_REKOMENDASI 10
 
 /* --------------------------------------------------------
