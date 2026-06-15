@@ -8,17 +8,17 @@
 
 #include "types.h"
 
-/* Variabel data kamus — didefinisikan di kamus.c */
+/* Variabel data kamus */
 extern Kamus kamus[1000];
-extern int   jumlahKamus;
+extern int jumlahKamus;
 
-/* Memuat data dari file kamusKata.txt ke array global kamus[] */
+/* Memuat data dari file kamus_final.txt */
 void loadKamus(const char *filename);
 
-/* Pencarian linear; return indeks jika ditemukan, -1 jika tidak */
+/* Mencari kata dalam array kamus */
 int cariKata(const char *kata);
 
-/* Cetak detail kata (arti & contoh) berdasarkan indeks */
+/* Menampilkan detail kata */
 void tampilKata(int index);
 
-#endif /* KAMUS_H */
+#endif
