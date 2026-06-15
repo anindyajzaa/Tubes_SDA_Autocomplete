@@ -8,9 +8,12 @@
 
 /* ---------- Kamus Utama ---------- */
 typedef struct {
-    char kata[30];
-    char arti[50];
-    char contoh[100];
+    char kata[50];
+    char kelas[30];
+    char arti[1000];
+    char contoh[1000];
+    char turunan[1000];
+    char frasa[2000];
 } Kamus;
 
 /* ---------- Trie Node ---------- */
