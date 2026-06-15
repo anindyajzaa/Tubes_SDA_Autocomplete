@@ -11,8 +11,8 @@
 #include <ctype.h>
 #include "kamus.h"
 
-/* VARIABEL GLOBAL*/
-Kamus kamus[1000];
+/* ---------- Definisi variabel data kamus ---------- */
+Kamus kamus[115213];
 int jumlahKamus = 0;
 
 
@@ -32,7 +32,8 @@ void loadKamus(const char *filename)
         return;
     }
 
-    char baris[5000];
+    /* Buffer untuk membaca 1 baris file */
+    char baris[10000];
 
     jumlahKamus = 0;
 
@@ -56,7 +57,10 @@ void loadKamus(const char *filename)
         char *token;
         char *saveptr;
 
-        // KOLOM 1 : KATA
+        /* ==========================
+           KOLOM 1 : KATA
+           ========================== */
+
         token = strtok_r(baris, "|", &saveptr);
 
         if (token == NULL)
@@ -64,13 +68,19 @@ void loadKamus(const char *filename)
             continue;
         }
 
+        trim(token);
+
         strcpy(kamus[jumlahKamus].kata, token);
 
-        // KOLOM 2 : KELAS KATA
+        /* ==========================
+           KOLOM 2 : KELAS KATA
+           ========================== */
+
         token = strtok_r(NULL, "|", &saveptr);
 
         if (token != NULL)
         {
+            trim(token);
             strcpy(kamus[jumlahKamus].kelas, token);
         }
         else
@@ -78,11 +88,15 @@ void loadKamus(const char *filename)
             strcpy(kamus[jumlahKamus].kelas, "");
         }
 
-        // KOLOM 3 : ARTI
+        /* ==========================
+           KOLOM 3 : ARTI
+           ========================== */
+
         token = strtok_r(NULL, "|", &saveptr);
 
         if (token != NULL)
         {
+            trim(token);
             strcpy(kamus[jumlahKamus].arti, token);
         }
         else
@@ -90,11 +104,15 @@ void loadKamus(const char *filename)
             strcpy(kamus[jumlahKamus].arti, "");
         }
 
-        // KOLOM 4 : CONTOH
+        /* ==========================
+           KOLOM 4 : CONTOH
+           ========================== */
+
         token = strtok_r(NULL, "|", &saveptr);
 
         if (token != NULL)
         {
+            trim(token);
             strcpy(kamus[jumlahKamus].contoh, token);
         }
         else
@@ -102,11 +120,15 @@ void loadKamus(const char *filename)
             strcpy(kamus[jumlahKamus].contoh, "");
         }
 
-        // KOLOM 5 : TURUNAN
+        /* ==========================
+           KOLOM 5 : TURUNAN
+           ========================== */
+
         token = strtok_r(NULL, "|", &saveptr);
 
         if (token != NULL)
         {
+            trim(token);
             strcpy(kamus[jumlahKamus].turunan, token);
         }
         else
@@ -114,11 +136,15 @@ void loadKamus(const char *filename)
             strcpy(kamus[jumlahKamus].turunan, "");
         }
 
-        // KOLOM 6 : FRASA 
+        /* ==========================
+           KOLOM 6 : FRASA
+           ========================== */
+
         token = strtok_r(NULL, "|", &saveptr);
 
         if (token != NULL)
         {
+            trim(token);
             strcpy(kamus[jumlahKamus].frasa, token);
         }
         else
@@ -128,7 +154,8 @@ void loadKamus(const char *filename)
 
         jumlahKamus++;
 
-        if (jumlahKamus >= 1000)
+        /* Batas maksimum data */
+        if (jumlahKamus >= 115213)
         {
             break;
         }
@@ -136,7 +163,8 @@ void loadKamus(const char *filename)
 
     fclose(fp);
 
-    printf("\n[INFO] %d kata berhasil dimuat.\n", jumlahKamus);
+    printf("\n[INFO] %d kata berhasil dimuat.\n",
+           jumlahKamus);
 }
 
 
@@ -184,7 +212,12 @@ int cariKata(const char *kata)
 
 /* ========================================================
    TAMPIL LIST
-   Dalam format:
+   Mengubah:
+
+   arti1;arti2;arti3
+
+   Menjadi:
+
    - arti1
    - arti2
    - arti3
@@ -198,7 +231,8 @@ void tampilList(const char *text)
         return;
     }
 
-    char temp[2000];
+    /* Salinan string karena strtok mengubah isi string */
+    char temp[5000];
 
     strcpy(temp, text);
 
@@ -245,13 +279,149 @@ void tampilKata(int index)
     tampilList(kamus[index].arti);
 
     printf("\nContoh:\n");
-    tampilList(kamus[index].contoh);
+    tampilContoh(kamus[index].contoh, kamus[index].kata);
 
     printf("\nTurunan:\n");
     tampilList(kamus[index].turunan);
 
     printf("\nFrasa:\n");
-    tampilList(kamus[index].frasa);
+    tampilFrasa(kamus[index].frasa);
 
     printf("========================================================================\n");
+}
+
+/* ========================================================
+   TRIM
+   Menghapus spasi di depan dan belakang string
+   ======================================================== */
+
+static void trim(char *str) {
+    int len = strlen(str);
+
+    while (len > 0 &&
+           isspace((unsigned char)str[len - 1]))
+    {
+        str[len - 1] = '\0';
+        len--;
+    }
+
+    int start = 0;
+
+    while (str[start] &&
+           isspace((unsigned char)str[start]))
+    {
+        start++;
+    }
+
+    if (start > 0)
+    {
+        memmove(str,
+                str + start,
+                strlen(str + start) + 1);
+    }
+}
+
+void tampilContoh(const char *contoh,
+                  const char *kata)
+{
+    if(contoh == NULL ||
+       strlen(contoh) == 0)
+    {
+        printf("-\n");
+        return;
+    }
+
+    char temp[5000];
+    strcpy(temp, contoh);
+
+    char *token = strtok(temp, ";");
+
+    while(token != NULL)
+    {
+        while(*token == ' ')
+            token++;
+
+        char hasil[5000];
+
+        strcpy(hasil, token);
+
+        char *pos = strstr(hasil, "--");
+
+        while(pos != NULL)
+        {
+            char buffer[5000];
+
+            *pos = '\0';
+
+            sprintf(
+                buffer,
+                "%s%s%s",
+                hasil,
+                kata,
+                pos + 2
+            );
+
+            strcpy(hasil, buffer);
+
+            pos = strstr(hasil, "--");
+        }
+
+        printf("- %s\n", hasil);
+
+        token = strtok(NULL, ";");
+    }
+}
+
+/* ========================================================
+   TAMPIL FRASA
+   Format:
+   - frasa
+     -> arti frasa
+   ======================================================== */
+
+void tampilFrasa(const char *text)
+{
+    if (text == NULL || strlen(text) == 0)
+    {
+        printf("-\n");
+        return;
+    }
+
+    char temp[2000];
+    strcpy(temp, text);
+
+    char *frasa = strtok(temp, ";");
+
+    while (frasa != NULL)
+    {
+        while (*frasa == ' ')
+        {
+            frasa++;
+        }
+
+        char *bukaKurung = strchr(frasa, '(');
+
+        if (bukaKurung != NULL)
+        {
+            *bukaKurung = '\0';
+
+            char *arti = bukaKurung + 1;
+
+            char *tutupKurung = strrchr(arti, ')');
+
+            if (tutupKurung != NULL)
+            {
+                *tutupKurung = '\0';
+            }
+
+            printf("- %s\n", frasa);
+            printf("  -> %s\n\n", arti);
+        }
+        else
+        {
+            printf("- %s\n", frasa);
+        }
+
+        frasa = strtok(NULL, ";");
+    }
 }
