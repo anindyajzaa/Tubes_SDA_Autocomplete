@@ -78,27 +78,29 @@ void loadSinonim(const char *filename)
 
         /* Ambil daftar sinonim */
         int s = 0;
-
-        while (s < 5)
+        if (saveptr != NULL)
         {
-            token = strtok_r(NULL, "|", &saveptr);
+            char *syn_saveptr;
+            char *syn_token = strtok_r(saveptr, ",", &syn_saveptr);
 
-            if (token == NULL)
+            while (syn_token != NULL && s < MAX_SINONIM_PER_KATA)
             {
-                break;
+                trim(syn_token);
+
+                strncpy(
+                    sinonimList[jumlahSinonim].sinonim[s],
+                    syn_token,
+                    29
+                );
+
+                sinonimList[jumlahSinonim].sinonim[s][29] = '\0';
+
+                s++;
+                syn_token = strtok_r(NULL, ",", &syn_saveptr);
             }
-
-            strncpy(
-                sinonimList[jumlahSinonim].sinonim[s],
-                token,
-                29
-            );
-
-            sinonimList[jumlahSinonim].sinonim[s][29] = '\0';
-
-            s++;
-            sinonimList[jumlahSinonim].count++;
         }
+
+        sinonimList[jumlahSinonim].count = s;
 
         jumlahSinonim++;
     }
