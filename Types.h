@@ -24,9 +24,10 @@ typedef struct TrieNode {
 } TrieNode;
 
 /* ---------- Sinonim ---------- */
+#define MAX_SINONIM_PER_KATA 50
 typedef struct {
     char kata[30];
-    char sinonim[5][30]; /* maks 5 sinonim per kata */
+    char sinonim[MAX_SINONIM_PER_KATA][30]; /* maks 50 sinonim per kata */
     int count;
 } Sinonim;
 
