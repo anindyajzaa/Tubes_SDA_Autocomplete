@@ -22,7 +22,7 @@ int jumlahSinonim = 0;
 
 /* --------------------------------------------------------
    loadSinonim — parsing synonym.txt
-   Format baris: kata|sin1|sin2|sin3|... (maks 5 sinonim)
+   Format baris: kata | sin1, sin2, sin3, ... (maks MAX_SINONIM_PER_KATA sinonim)
    -------------------------------------------------------- */
 void loadSinonim(const char *filename)
 {
