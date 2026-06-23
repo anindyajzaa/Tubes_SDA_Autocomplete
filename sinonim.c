@@ -7,11 +7,14 @@
 
 #include <stdio.h>
 #include <string.h>
-#include <strings.h>
 #include "sinonim.h"
 
-/* ---------- Konstanta Maksimum Data Sinonim ---------- */
-#define MAX_SINONIM 14912
+#ifdef _WIN32
+#define strcasecmp _stricmp
+#endif
+
+/* Forward declaration untuk fungsi internal */
+static void trim(char *str);
 
 /* ---------- Definisi variabel data sinonim ---------- */
 Sinonim sinonimList[MAX_SINONIM];

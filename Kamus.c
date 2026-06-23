@@ -11,8 +11,11 @@
 #include <ctype.h>
 #include "kamus.h"
 
+/* Forward declaration untuk fungsi internal */
+static void trim(char *str);
+
 /* ---------- Definisi variabel data kamus ---------- */
-Kamus kamus[115213];
+Kamus kamus[MAX_KAMUS];
 int jumlahKamus = 0;
 
 
@@ -70,7 +73,8 @@ void loadKamus(const char *filename)
 
         trim(token);
 
-        strcpy(kamus[jumlahKamus].kata, token);
+        strncpy(kamus[jumlahKamus].kata, token, sizeof(kamus[jumlahKamus].kata) - 1);
+        kamus[jumlahKamus].kata[sizeof(kamus[jumlahKamus].kata) - 1] = '\0';
 
         /* ==========================
            KOLOM 2 : KELAS KATA
@@ -81,11 +85,12 @@ void loadKamus(const char *filename)
         if (token != NULL)
         {
             trim(token);
-            strcpy(kamus[jumlahKamus].kelas, token);
+            strncpy(kamus[jumlahKamus].kelas, token, sizeof(kamus[jumlahKamus].kelas) - 1);
+            kamus[jumlahKamus].kelas[sizeof(kamus[jumlahKamus].kelas) - 1] = '\0';
         }
         else
         {
-            strcpy(kamus[jumlahKamus].kelas, "");
+            kamus[jumlahKamus].kelas[0] = '\0';
         }
 
         /* ==========================
@@ -97,11 +102,12 @@ void loadKamus(const char *filename)
         if (token != NULL)
         {
             trim(token);
-            strcpy(kamus[jumlahKamus].arti, token);
+            strncpy(kamus[jumlahKamus].arti, token, sizeof(kamus[jumlahKamus].arti) - 1);
+            kamus[jumlahKamus].arti[sizeof(kamus[jumlahKamus].arti) - 1] = '\0';
         }
         else
         {
-            strcpy(kamus[jumlahKamus].arti, "");
+            kamus[jumlahKamus].arti[0] = '\0';
         }
 
         /* ==========================
@@ -113,11 +119,12 @@ void loadKamus(const char *filename)
         if (token != NULL)
         {
             trim(token);
-            strcpy(kamus[jumlahKamus].contoh, token);
+            strncpy(kamus[jumlahKamus].contoh, token, sizeof(kamus[jumlahKamus].contoh) - 1);
+            kamus[jumlahKamus].contoh[sizeof(kamus[jumlahKamus].contoh) - 1] = '\0';
         }
         else
         {
-            strcpy(kamus[jumlahKamus].contoh, "");
+            kamus[jumlahKamus].contoh[0] = '\0';
         }
 
         /* ==========================
@@ -129,11 +136,12 @@ void loadKamus(const char *filename)
         if (token != NULL)
         {
             trim(token);
-            strcpy(kamus[jumlahKamus].turunan, token);
+            strncpy(kamus[jumlahKamus].turunan, token, sizeof(kamus[jumlahKamus].turunan) - 1);
+            kamus[jumlahKamus].turunan[sizeof(kamus[jumlahKamus].turunan) - 1] = '\0';
         }
         else
         {
-            strcpy(kamus[jumlahKamus].turunan, "");
+            kamus[jumlahKamus].turunan[0] = '\0';
         }
 
         /* ==========================
@@ -145,17 +153,18 @@ void loadKamus(const char *filename)
         if (token != NULL)
         {
             trim(token);
-            strcpy(kamus[jumlahKamus].frasa, token);
+            strncpy(kamus[jumlahKamus].frasa, token, sizeof(kamus[jumlahKamus].frasa) - 1);
+            kamus[jumlahKamus].frasa[sizeof(kamus[jumlahKamus].frasa) - 1] = '\0';
         }
         else
         {
-            strcpy(kamus[jumlahKamus].frasa, "");
+            kamus[jumlahKamus].frasa[0] = '\0';
         }
 
         jumlahKamus++;
 
         /* Batas maksimum data */
-        if (jumlahKamus >= 115213)
+        if (jumlahKamus >= MAX_KAMUS)
         {
             break;
         }
@@ -182,8 +191,10 @@ int cariKata(const char *kata)
         char kataKamus[50];
         char kataInput[50];
 
-        strcpy(kataKamus, kamus[i].kata);
-        strcpy(kataInput, kata);
+        strncpy(kataKamus, kamus[i].kata, sizeof(kataKamus) - 1);
+        kataKamus[sizeof(kataKamus) - 1] = '\0';
+        strncpy(kataInput, kata, sizeof(kataInput) - 1);
+        kataInput[sizeof(kataInput) - 1] = '\0';
 
         /* Ubah menjadi huruf kecil */
         int j;
@@ -234,7 +245,8 @@ void tampilList(const char *text)
     /* Salinan string karena strtok mengubah isi string */
     char temp[5000];
 
-    strcpy(temp, text);
+    strncpy(temp, text, sizeof(temp) - 1);
+    temp[sizeof(temp) - 1] = '\0';
 
     char *token = strtok(temp, ";");
 
@@ -332,7 +344,8 @@ void tampilContoh(const char *contoh,
     }
 
     char temp[5000];
-    strcpy(temp, contoh);
+    strncpy(temp, contoh, sizeof(temp) - 1);
+    temp[sizeof(temp) - 1] = '\0';
 
     char *token = strtok(temp, ";");
 
@@ -343,7 +356,8 @@ void tampilContoh(const char *contoh,
 
         char hasil[5000];
 
-        strcpy(hasil, token);
+        strncpy(hasil, token, sizeof(hasil) - 1);
+        hasil[sizeof(hasil) - 1] = '\0';
 
         char *pos = strstr(hasil, "--");
 
@@ -353,15 +367,17 @@ void tampilContoh(const char *contoh,
 
             *pos = '\0';
 
-            sprintf(
+            snprintf(
                 buffer,
+                sizeof(buffer),
                 "%s%s%s",
                 hasil,
                 kata,
                 pos + 2
             );
 
-            strcpy(hasil, buffer);
+            strncpy(hasil, buffer, sizeof(hasil) - 1);
+            hasil[sizeof(hasil) - 1] = '\0';
 
             pos = strstr(hasil, "--");
         }
@@ -388,7 +404,8 @@ void tampilFrasa(const char *text)
     }
 
     char temp[2000];
-    strcpy(temp, text);
+    strncpy(temp, text, sizeof(temp) - 1);
+    temp[sizeof(temp) - 1] = '\0';
 
     char *frasa = strtok(temp, ";");
 
