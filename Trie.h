@@ -24,8 +24,8 @@ TrieNode* searchPrefix(TrieNode *root, const char *prefix);
 void kumpulkanHasil(TrieNode *node, char *buffer, int depth,
                     char hasil[][30], int *count, int maxHasil);
 
-/* Tampilkan hingga maxHasil rekomendasi autocomplete ke layar */
-void autocomplete(TrieNode *root, const char *prefix, int maxHasil);
+/* Cari & cetak rekomendasi berdasar prefix, mengembalikan jumlah kata yang cocok */
+int autocomplete(TrieNode *root, const char *prefix, char hasil[][30], int maxHasil);
 
 /* Bebaskan seluruh memori Trie secara rekursif */
 void bebaskanTrie(TrieNode *node);

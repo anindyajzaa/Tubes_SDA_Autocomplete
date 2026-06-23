@@ -111,34 +111,7 @@ static void fiturAutocomplete(void) {
         } while (1);
 
         /* --- Proses Autocomplete: tampilkan 10 rekomendasi --- */
-        autocomplete(root, prefix, MAX_REKOMENDASI);
-
-        /* --- Kumpulkan hasil ke hasilTemp untuk validasi pilihan user --- */
-        count = 0;
-
-        TrieNode *node = searchPrefix(root, prefix);
-        if (node) {
-            char buffer[100];
-            int  depth = (int)strlen(prefix);
-            int  i;
-
-            strncpy(buffer, prefix, 99);
-            buffer[99] = '\0';
-
-            if (node->isEnd) {
-                strncpy(hasilTemp[count], prefix, 29);
-                hasilTemp[count][29] = '\0';
-                count++;
-            }
-
-            for (i = 0; i < 26 && count < MAX_REKOMENDASI; i++) {
-                if (node->children[i]) {
-                    buffer[depth] = (char)('a' + i);
-                    kumpulkanHasil(node->children[i], buffer, depth + 1,
-                                   hasilTemp, &count, MAX_REKOMENDASI);
-                }
-            }
-        }
+        count = autocomplete(root, prefix, hasilTemp, MAX_REKOMENDASI);
 
         /* --------------------------------------------------------
            Sub-menu muncul SETELAH rekomendasi ditampilkan

@@ -9,7 +9,8 @@
 #include "types.h"
 
 /* Variabel data kamus */
-extern Kamus kamus[115213];
+#define MAX_KAMUS 115213
+extern Kamus kamus[MAX_KAMUS];
 extern int jumlahKamus;
 
 /* Memuat data dari file kamus_final.txt */
@@ -21,13 +22,13 @@ int cariKata(const char *kata);
 /* Menampilkan detail kata */
 void tampilKata(int index);
 
-/* Menghapus spasi di depan dan belakang string */
-static void trim(char *str);
-
 /* Memunculkan kata saat menampilkan contoh kalimat suatu kata */
 void tampilContoh(const char *contoh, const char *kata);
 
 /* Merapihkan Output frasa */
 void tampilFrasa(const char *text);
+
+/* Menampilkan daftar terpisah titik koma */
+void tampilList(const char *text);
 
 #endif

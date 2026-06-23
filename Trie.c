@@ -88,11 +88,11 @@ void kumpulkanHasil(TrieNode *node, char *buffer, int depth,
 /* --------------------------------------------------------
    autocomplete — cari & cetak rekomendasi berdasar prefix
    -------------------------------------------------------- */
-void autocomplete(TrieNode *root, const char *prefix, int maxHasil) {
+int autocomplete(TrieNode *root, const char *prefix, char hasil[][30], int maxHasil) {
     TrieNode *node = searchPrefix(root, prefix);
     if (!node) {
         printf("  Tidak ada kata yang cocok dengan prefix \"%s\".\n", prefix);
-        return;
+        return 0;
     }
 
     /* buffer: prefix + perpanjangan DFS */
@@ -101,7 +101,6 @@ void autocomplete(TrieNode *root, const char *prefix, int maxHasil) {
     buffer[99] = '\0';
     int depth = (int)strlen(prefix);
 
-    char hasil[10][30];
     int count = 0;
 
     /* Jika prefix itu sendiri adalah kata yang valid, masukkan duluan */
@@ -123,12 +122,14 @@ void autocomplete(TrieNode *root, const char *prefix, int maxHasil) {
 
     if (count == 0) {
         printf("  Tidak ada rekomendasi untuk prefix \"%s\".\n", prefix);
-        return;
+        return 0;
     }
 
     printf("\n  Rekomendasi autocomplete untuk \"%s\":\n", prefix);
     for (i = 0; i < count; i++)
         printf("  %2d. %s\n", i + 1, hasil[i]);
+
+    return count;
 }
 
 /* --------------------------------------------------------

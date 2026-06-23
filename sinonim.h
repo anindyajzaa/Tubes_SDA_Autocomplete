@@ -24,7 +24,4 @@ int cariSinonim(const char *kata);
 /* Cetak semua sinonim berdasarkan indeks di sinonimList */
 void tampilSinonim(int index);
 
-/* Menghapus spasi di depan dan belakang string */
-static void trim(char *str);
-
 #endif /* SINONIM_H */
